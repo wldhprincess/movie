@@ -19,7 +19,7 @@ function App() {
             <Route path="users"  element={<Users />} />
 
         </Routes>
-      
+        <Home />
         <Footer/>
         
     </div>
